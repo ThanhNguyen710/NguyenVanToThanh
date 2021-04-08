@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  equipid: 1
+  equipname: MyString
+  nsxid: one
+  specifi: MyString
+  typeid: one
+  cost: MyString
+  idsupplier: one
+
+two:
+  equipid: 1
+  equipname: MyString
+  nsxid: two
+  specifi: MyString
+  typeid: two
+  cost: MyString
+  idsupplier: two

@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  bookid: 1
+  bookname: MyString
+  autid: one
+  typeid: one
+  nxbid: one
+  year: 1
+
+two:
+  bookid: 1
+  bookname: MyString
+  autid: two
+  typeid: two
+  nxbid: two
+  year: 1

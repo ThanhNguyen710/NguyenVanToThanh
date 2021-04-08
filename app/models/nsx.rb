@@ -1,0 +1,2 @@
+class Nsx < ApplicationRecord
+end
